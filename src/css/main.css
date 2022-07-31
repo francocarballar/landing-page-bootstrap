@@ -1,0 +1,19 @@
+.navbar .navbar-nav .nav-item .nav-link {
+    color: #fff;
+}
+
+.main-header {
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.background-overlay {
+    background-color: rgba(19, 15, 64, .6);
+}
+
+.team,
+footer {
+    background-color: rgba(19, 15, 64, 1);
+}
